@@ -1,3 +1,8 @@
 *{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: monospace
+}
+
+.main-content{
+    margin: 200px auto;
+    width: 70%;
 }
