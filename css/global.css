@@ -1,7 +1,9 @@
-*{
-    font-family: monospace
+body {
+    font-family: "Space Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
-
 .main-content{
     margin: 200px auto;
     width: 70%;
